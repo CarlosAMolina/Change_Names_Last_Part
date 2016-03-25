@@ -10,6 +10,8 @@ Note: when the script asks for the path you can drop the folder to terminal.
 
 ## Requirements
 
+- Copy scripts to otherFunctions folder (see that folder's README).
+
 - Tested in Ubuntu.
 
 ## Usage
